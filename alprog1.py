@@ -1,0 +1,5 @@
+print("Nama:Muhammad Rizki")
+print("Nim:24241180")
+print("Saya berasal dari:Poto Tano")
+print("Jumlah dari 2 digit nim pertama ditambahkan 2 digit nim terakhir adalah")
+print("24+80=104")
